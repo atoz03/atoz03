@@ -63,9 +63,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=atoz03&amp;theme=tokyonight&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=atoz03&amp;theme=default&amp;hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=atoz03&amp;theme=default&amp;hide_border=true" alt="streak stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" />
+    <img src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" alt="连续贡献" />
   </picture>
 </p>
 

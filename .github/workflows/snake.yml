@@ -16,6 +16,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
       - name: 生成 SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,6 +27,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: 生成连续贡献卡片
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 "scripts/generate_streak_svg.py" --user "atoz03" --out-dir "dist"
+
       - name: 发布到 output 分支
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -31,4 +40,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
