@@ -49,57 +49,32 @@
 ## GitHub 动态
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=atoz03&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"
-    alt="github stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
-    alt="top languages"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atoz03&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=atoz03&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=atoz03&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=atoz03&theme=default&hide_border=true#gh-light-mode-only"
-    alt="streak stats"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=atoz03&amp;theme=tokyonight&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=atoz03&amp;theme=default&amp;hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=atoz03&amp;theme=default&amp;hide_border=true" alt="streak stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&theme=github-light&hide_border=true#gh-light-mode-only"
-    alt="activity graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=atoz03&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only"
-    alt="github stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only"
-    alt="top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=atoz03&theme=tokyonight&hide_border=true#gh-dark-mode-only"
-    alt="streak stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&theme=tokyo-night&hide_border=true#gh-dark-mode-only"
-    alt="activity graph"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=tokyo-night&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" alt="activity graph" />
+  </picture>
 </p>
 
 ## 贡献贪吃蛇
