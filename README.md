@@ -51,26 +51,53 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=atoz03&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=atoz03&show_icons=true&theme=default&hide_border=true#gh-light-mode-only"
     alt="github stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&layout=compact&theme=default&hide_border=true#gh-light-mode-only"
     alt="top languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=atoz03&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=atoz03&theme=default&hide_border=true#gh-light-mode-only"
     alt="streak stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&theme=github-light&hide_border=true#gh-light-mode-only"
+    alt="activity graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=atoz03&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only"
+    alt="github stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only"
+    alt="top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=atoz03&theme=tokyonight&hide_border=true#gh-dark-mode-only"
+    alt="streak stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&theme=tokyo-night&hide_border=true#gh-dark-mode-only"
     alt="activity graph"
   />
 </p>
