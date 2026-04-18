@@ -25,9 +25,7 @@
 ## 关于我
 
 - 🎓 哈尔滨工业大学（HIT）计算机硕士
-- 🧪 兴趣方向：视觉语言模型数据、数据管线、效率工具
-- 🚀 近期项目： [dataset_web](https://github.com/atoz03/dataset_web)
-- 📚 更多信息： [https://github.com/atoz03](https://github.com/atoz03)
+- 🧪 兴趣方向：多模态大模型、数据管线、效率工具
 
 ## 精选项目
 
