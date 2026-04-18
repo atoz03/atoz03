@@ -25,24 +25,30 @@
 ## 关于我
 
 - 🎓 哈尔滨工业大学（HIT）计算机硕士
-- 🧪 兴趣方向：多模态大模型、数据管线、效率工具
+- 🔬 主要关注：AI 应用工程、多模态数据处理、效率工具与桌面应用
+- 🛠️ 持续在做 AI 网关、数据集处理、提示词管理、办公自动化等方向的项目
 
 ## 精选项目
 
-- [dataset_web](https://github.com/atoz03/dataset_web)：将农业图像处理为图文标注对，用于训练视觉语言模型
-- [office-cli](https://github.com/atoz03/office-cli)：CLI 工具（TypeScript）
-- [promptpub](https://github.com/atoz03/promptpub)：提示词相关项目（TypeScript）
-- [TimeImprint](https://github.com/atoz03/TimeImprint)：移动端项目（Kotlin）
-- 项目列表： [https://github.com/atoz03?tab=repositories](https://github.com/atoz03?tab=repositories)
+- [sub2api](https://github.com/atoz03/sub2api)：AI API 网关平台，围绕订阅额度分发、鉴权、计费、调度与管理面板展开（fork by [Weishaw](https://github.com/Wei-Shaw/sub2api)）
+- [viewboard](https://github.com/atoz03/viewboard)：基于 Tauri + React 的离线优先任务看板，支持本地存储与 WebDAV 同步
+- [dataset_web](https://github.com/atoz03/dataset_web)：农业多模态数据处理项目，将图像整理为图文标注对，用于视觉语言模型训练
+- [prepeft-probing](https://github.com/atoz03/prepeft-probing)：面向视觉语言模型编码器的 probing / perturbation / layer-wise PEFT 分析框架
+- [promptpub](https://github.com/atoz03/promptpub)：提示词管理与发布平台，支持版本控制、变量预览、检索与复用
 
 ## 技能栈
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,ts,js,kotlin,linux,git,docker,postgres,redis&perline=9"
+    src="https://skillicons.dev/icons?i=go,python,ts,js,react,kotlin,rust,linux,git,docker,postgres,redis&perline=6"
     alt="skills"
   />
 </p>
+
+## 更多项目
+
+- 项目列表： [https://github.com/atoz03?tab=repositories](https://github.com/atoz03?tab=repositories)
+
 
 ## GitHub 动态
 
@@ -57,14 +63,19 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoz03&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="top languages" />
   </picture>
+  
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" />
-    <img src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" alt="连续贡献" />
+    <img
+      src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg"
+      alt="连续贡献"
+      width="96%"
+    />
   </picture>
+
 </p>
 
 <p align="center">
