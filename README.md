@@ -42,16 +42,6 @@ I build practical AI systems and research tools, with a focus on multimodal lear
   />
 </p>
 
-## GitHub Overview
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github" />
-    <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github" alt="GitHub profile details" />
-  </picture>
-</p>
-
 ## Contribution Snake
 
 <p align="center">
