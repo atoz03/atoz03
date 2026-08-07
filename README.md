@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=720&lines=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88HIT%EF%BC%89%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%95%E5%A3%AB;VLM+%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B+%2F+%E8%87%AA%E5%8A%A8%E5%8C%96+%2F+%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7;Python+%7C+TypeScript+%7C+Kotlin;Keep+shipping%2C+keep+learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=720&lines=AI+Application+Engineering;VLM+%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B+%2F+%E8%87%AA%E5%8A%A8%E5%8C%96+%2F+%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7;Python+%7C+TypeScript+%7C+Kotlin;Keep+shipping%2C+keep+learning"
     alt="typing"
   />
 </p>
@@ -24,7 +24,6 @@
 
 ## 关于我
 
-- 🎓 哈尔滨工业大学（HIT）计算机硕士
 - 🔬 主要关注：AI 应用工程、多模态数据处理、效率工具与桌面应用
 - 🛠️ 持续在做 AI 网关、数据集处理、提示词管理、办公自动化等方向的项目
 
