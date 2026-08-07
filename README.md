@@ -52,35 +52,6 @@ I build practical AI systems and research tools, with a focus on multimodal lear
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github" />
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github" />
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github" alt="Top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" />
-    <img src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" alt="Contribution streak" width="96%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=tokyo-night&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" />
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" alt="GitHub activity graph" />
-  </picture>
-</p>
-
 ## Contribution Snake
 
 <p align="center">
