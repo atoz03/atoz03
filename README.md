@@ -16,9 +16,6 @@
   <a href="https://github.com/atoz03" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-atoz03-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/litt6le667" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-@litt6le667-000000?style=for-the-badge&logo=x" alt="X / Twitter" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=atoz03&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
