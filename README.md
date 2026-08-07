@@ -26,11 +26,11 @@
 
 ## Featured Projects
 
-- [sub2api](https://github.com/atoz03/sub2api) — AI API gateway for subscription quota distribution, authentication, billing, scheduling, and management; forked from [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
-- [viewboard](https://github.com/atoz03/viewboard) — Offline-first task board built with Tauri + React, with local storage and WebDAV sync
-- [dataset_web](https://github.com/atoz03/dataset_web) — Multimodal agricultural dataset processing toolkit that converts images into image-text annotation pairs for vision-language model training
-- [prepeft-probing](https://github.com/atoz03/prepeft-probing) — Probing, perturbation, and layer-wise PEFT analysis framework for vision-language model encoders
-- [promptpub](https://github.com/atoz03/promptpub) — Prompt management and publishing platform with version control, variable preview, search, and reuse
+- [Claude-Usage-Extension](https://github.com/atoz03/Claude-Usage-Extension) — Browser extension for Claude usage tracking and power-user workflows, including context and token monitoring, conversation search, import/export, translation, TTS/STT, and advanced chat controls
+- [Ant-Browser](https://github.com/atoz03/Ant-Browser) — Cross-platform desktop browser manager for isolated multi-account environments, proxy binding, automation, plugin management, profile migration, and programmable browser control
+- [Mineradio](https://github.com/atoz03/Mineradio) — Immersive Windows music player combining weather-driven radio, lyrics, cinematic visual effects, 3D playlist browsing, and multi-source music discovery
+- [subboost](https://github.com/atoz03/subboost) — Visual Clash/Mihomo subscription conversion and management platform with chained proxies, precise routing, DNS leak prevention, aggregation, and automated refresh
+- [Netcatty](https://github.com/atoz03/Netcatty) — AI-powered SSH workspace with terminal management, SFTP workflows, split sessions, server operations, and a built-in AI agent for multi-host administration
 
 ## Tech Stack
 
