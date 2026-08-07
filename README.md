@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=720&lines=AI+Application+Engineering;VLM+Data+Engineering+%2F+Automation+%2F+Productivity+Tools;Python+%7C+TypeScript+%7C+Kotlin;Keep+shipping%2C+keep+learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=760&lines=AI+Application+Engineering;Multimodal+Learning+%2F+AI+Tooling+%2F+Automation;Python+%7C+TypeScript+%7C+Kotlin;Build%2C+measure%2C+iterate"
     alt="typing animation"
   />
 </p>
@@ -21,46 +21,55 @@
 
 ## About Me
 
-- 🔬 Interested in AI application engineering, multimodal data processing, productivity tools, and desktop applications
-- 🛠️ Building projects around AI gateways, dataset processing, prompt management, and workflow automation
+I build practical AI systems and research tools, with a focus on multimodal learning, model analysis, data workflows, and developer productivity.
 
 ## Featured Projects
 
-- [Mineradio](https://github.com/atoz03/Mineradio) — Immersive Windows music player combining weather-driven radio, synchronized lyrics, cinematic visual effects, 3D playlist browsing, and multi-source music discovery
-- [prepeft-probing](https://github.com/atoz03/prepeft-probing) — Research framework for probing, perturbation analysis, and layer-wise PEFT studies on vision-language model encoders
-- [Fielix](https://github.com/atoz03/Fielix) — Experimental neural network architecture exploring field-effect propagation, dynamic topology, spiral memory, and emergent positional representations
-- [dataset_web](https://github.com/atoz03/dataset_web) — Multimodal agricultural dataset processing toolkit for organizing images and building image-text annotation pairs for vision-language model training
-- [promptpub](https://github.com/atoz03/promptpub) — Prompt management and publishing platform with version control, variable preview, search, and reusable prompt workflows
+| Project | Focus |
+| --- | --- |
+| **[Fielix](https://github.com/atoz03/Fielix)** | Experimental neural architecture exploring field-effect propagation, dynamic topology, spiral memory, and emergent positional information. |
+| **[prepeft-probing](https://github.com/atoz03/prepeft-probing)** | Research framework for probing, perturbation analysis, and layer-wise PEFT studies on vision-language model encoders. |
+| **[dataset_web](https://github.com/atoz03/dataset_web)** | Multimodal agricultural data pipeline for organizing images and producing image-text annotation pairs for VLM training. |
+| **[office-cli](https://github.com/atoz03/office-cli)** | AI-powered CLI for natural-language Excel/CSV workflows, combining TypeScript execution with generated Python for complex tasks. |
+| **[promptpub](https://github.com/atoz03/promptpub)** | Prompt management and publishing platform with versioning, variable previews, search, and reusable prompt workflows. |
 
 ## Tech Stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=go,python,ts,js,react,kotlin,rust,linux,git,docker,postgres,redis&perline=6"
+    src="https://skillicons.dev/icons?i=go,python,ts,js,react,kotlin,rust,linux,git,docker,postgres,redis&perline=12"
     alt="tech stack"
   />
 </p>
 
-## More Projects
-
-- Browse all repositories: [github.com/atoz03?tab=repositories](https://github.com/atoz03?tab=repositories)
-
-## GitHub Stats
+## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github_dark" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github" />
+    <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atoz03&theme=github" alt="GitHub profile details" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atoz03&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atoz03&theme=github" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" />
-    <img
-      src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg"
-      alt="GitHub contribution streak"
-      width="96%"
-    />
+    <img src="https://raw.githubusercontent.com/atoz03/atoz03/output/streak.svg" alt="Contribution streak" width="96%" />
   </picture>
 </p>
 
@@ -68,17 +77,22 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=tokyo-night&amp;hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" alt="GitHub activity graph" />
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atoz03&amp;theme=github-light&amp;hide_border=true" alt="GitHub activity graph" />
   </picture>
 </p>
 
 ## Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/atoz03/atoz03/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution grid snake animation"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoz03/atoz03/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/atoz03/atoz03/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/atoz03?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
 
 <p align="center">
