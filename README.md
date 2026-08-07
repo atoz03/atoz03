@@ -26,11 +26,11 @@
 
 ## Featured Projects
 
-- [Claude-Usage-Extension](https://github.com/atoz03/Claude-Usage-Extension) — Browser extension for Claude usage tracking and power-user workflows, including context and token monitoring, conversation search, import/export, translation, TTS/STT, and advanced chat controls
-- [Ant-Browser](https://github.com/atoz03/Ant-Browser) — Cross-platform desktop browser manager for isolated multi-account environments, proxy binding, automation, plugin management, profile migration, and programmable browser control
-- [Mineradio](https://github.com/atoz03/Mineradio) — Immersive Windows music player combining weather-driven radio, lyrics, cinematic visual effects, 3D playlist browsing, and multi-source music discovery
-- [subboost](https://github.com/atoz03/subboost) — Visual Clash/Mihomo subscription conversion and management platform with chained proxies, precise routing, DNS leak prevention, aggregation, and automated refresh
-- [Netcatty](https://github.com/atoz03/Netcatty) — AI-powered SSH workspace with terminal management, SFTP workflows, split sessions, server operations, and a built-in AI agent for multi-host administration
+- [Mineradio](https://github.com/atoz03/Mineradio) — Immersive Windows music player combining weather-driven radio, synchronized lyrics, cinematic visual effects, 3D playlist browsing, and multi-source music discovery
+- [prepeft-probing](https://github.com/atoz03/prepeft-probing) — Research framework for probing, perturbation analysis, and layer-wise PEFT studies on vision-language model encoders
+- [Fielix](https://github.com/atoz03/Fielix) — Experimental neural network architecture exploring field-effect propagation, dynamic topology, spiral memory, and emergent positional representations
+- [dataset_web](https://github.com/atoz03/dataset_web) — Multimodal agricultural dataset processing toolkit for organizing images and building image-text annotation pairs for vision-language model training
+- [promptpub](https://github.com/atoz03/promptpub) — Prompt management and publishing platform with version control, variable preview, search, and reusable prompt workflows
 
 ## Tech Stack
 
