@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=760&lines=AI+Application+Engineering;Multimodal+Learning+%2F+AI+Tooling+%2F+Automation;Python+%7C+TypeScript+%7C+Kotlin;Build%2C+measure%2C+iterate"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=820&lines=AI+Research+%2B+Systems+Engineering;AI+Tooling+%2F+Multimodal+Learning+%2F+Open+Source;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Build%2C+measure%2C+iterate"
     alt="typing animation"
   />
 </p>
@@ -21,23 +21,32 @@
 
 ## About Me
 
-I build practical AI systems and research tools, with a focus on multimodal learning, model analysis, data workflows, and developer productivity.
+I build practical AI systems, research tools, and developer infrastructure. My work spans multimodal model analysis, local AI tooling, GPU infrastructure, data workflows, and open-source engineering.
 
 ## Featured Projects
 
 | Project | Focus |
 | --- | --- |
-| **[Fielix](https://github.com/atoz03/Fielix)** | Experimental neural architecture exploring field-effect propagation, dynamic topology, spiral memory, and emergent positional information. |
+| **[readout-cli](https://github.com/atoz03/readout-cli)** | Cross-platform Rust TUI/CLI for Claude Code and Codex usage analytics, session replay, token/cost accounting, SSH multi-device aggregation, and JSON/CSV exports. |
+| **[Bursar](https://github.com/atoz03/Bursar)** | Self-hosted operations and governance platform for shared Linux GPU clusters, covering fleet visibility, resource accounting, quotas, identity, access policy, and security events. |
 | **[prepeft-probing](https://github.com/atoz03/prepeft-probing)** | Research framework for probing, perturbation analysis, and layer-wise PEFT studies on vision-language model encoders. |
 | **[dataset_web](https://github.com/atoz03/dataset_web)** | Multimodal agricultural data pipeline for organizing images and producing image-text annotation pairs for VLM training. |
 | **[office-cli](https://github.com/atoz03/office-cli)** | AI-powered CLI for natural-language Excel/CSV workflows, combining TypeScript execution with generated Python for complex tasks. |
-| **[promptpub](https://github.com/atoz03/promptpub)** | Prompt management and publishing platform with versioning, variable previews, search, and reusable prompt workflows. |
+
+## Open Source Contributions
+
+| Project | Contribution |
+| --- | --- |
+| **[Netcatty](https://github.com/binaricat/Netcatty/pull/2949)** | Merged terminal disk-capacity formatting support for multi-terabyte and petabyte storage. |
+| **[claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service/pull/751)** | Merged account sorting improvements with ascending/descending direction switching. |
+
+I also contribute patches and improvements across projects such as Cherry Studio, Hermes Agent, sub2api, and MrRSS.
 
 ## Tech Stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=go,python,ts,js,react,kotlin,rust,linux,git,docker,postgres,redis&perline=12"
+    src="https://skillicons.dev/icons?i=rust,go,python,ts,js,react,vue,linux,git,docker,postgres,redis&perline=12"
     alt="tech stack"
   />
 </p>
