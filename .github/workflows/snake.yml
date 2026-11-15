@@ -1,4 +1,4 @@
-name: Update Profile Visuals
+name: Update Contribution Snake
 
 on:
   schedule:
@@ -25,12 +25,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate contribution streak cards
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 scripts/generate_streak_svg.py --user atoz03 --out-dir dist
 
       - name: Publish profile visuals
         uses: crazy-max/ghaction-github-pages@v4
