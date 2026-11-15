@@ -12,13 +12,6 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/atoz03" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-atoz03-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=atoz03&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
-
 ## About Me
 
 I build practical AI systems, research tools, and developer infrastructure. My work spans multimodal model analysis, local AI tooling, GPU infrastructure, data workflows, and open-source engineering.
@@ -31,7 +24,7 @@ I build practical AI systems, research tools, and developer infrastructure. My w
 | **[Bursar](https://github.com/atoz03/Bursar)** | Self-hosted operations and governance platform for shared Linux GPU clusters, covering fleet visibility, resource accounting, quotas, identity, access policy, and security events. |
 | **[prepeft-probing](https://github.com/atoz03/prepeft-probing)** | Research framework for probing, perturbation analysis, and layer-wise PEFT studies on vision-language model encoders. |
 | **[dataset_web](https://github.com/atoz03/dataset_web)** | Multimodal agricultural data pipeline for organizing images and producing image-text annotation pairs for VLM training. |
-| **[office-cli](https://github.com/atoz03/office-cli)** | AI-powered CLI for natural-language Excel/CSV workflows, combining TypeScript execution with generated Python for complex tasks. |
+| **[pdf2jsonl](https://github.com/atoz03/pdf2jsonl)** | Evidence-grounded PDF-to-JSONL workflows for scientific literature, with provenance tracking, validation, and downstream research data exports. |
 
 ## Open Source Contributions
 
@@ -39,8 +32,6 @@ I build practical AI systems, research tools, and developer infrastructure. My w
 | --- | --- |
 | **[Netcatty](https://github.com/binaricat/Netcatty/pull/2949)** | Merged terminal disk-capacity formatting support for multi-terabyte and petabyte storage. |
 | **[claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service/pull/751)** | Merged account sorting improvements with ascending/descending direction switching. |
-
-I also contribute patches and improvements across projects such as Cherry Studio, Hermes Agent, sub2api, and MrRSS.
 
 ## Tech Stack
 
@@ -65,9 +56,3 @@ I also contribute patches and improvements across projects such as Cherry Studio
   <a href="https://github.com/atoz03?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=120&section=footer"
-    alt="footer"
-  />
-</p>
